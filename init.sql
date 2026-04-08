@@ -12,3 +12,4 @@ CREATE TABLE tasks (
 INSERT INTO tasks (name, status) VALUES ('Milk', 'pending');
 INSERT INTO tasks (name, status) VALUES ('Tea', 'done');
 INSERT INTO tasks (name, status) VALUES ('Oil', 'pending');I
+INSERT INTO tasks (name, status) VALUES ('Coffee', 'pending');
